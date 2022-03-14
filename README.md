@@ -1,4 +1,3 @@
-# mjv-java-school
-Repositorio da Shool de Java pela MJV 
+# MJV SCHOOL JAVA
+Repositorio da School de Java pela MJV 
 
-Incluindo conteudo no meu terminal
